@@ -6,8 +6,8 @@ In this project a base video and style reference image is taken. The base video 
 
 ![blue moon lake](https://cloud.githubusercontent.com/assets/16362957/20453699/2ce3621c-ae53-11e6-8aea-100934576fc0.gif)
 
-![the_scream](https://cloud.githubusercontent.com/assets/16362957/20453729/0b5f885e-ae54-11e6-89b8-5e3063d50369.jpg) | ![golden_gate_scream](https://cloud.githubusercontent.com/assets/16362957/20453731/0daa968a-ae54-11e6-823e-cf00edd891dc.png)
-![picasso_selfport1907](https://cloud.githubusercontent.com/assets/16362957/20453732/11700746-ae54-11e6-9962-eb990e817c59.jpg) | ![pitt_picasso_content_5_style_10](https://cloud.githubusercontent.com/assets/16362957/20453733/140639e4-ae54-11e6-9f33-432327685bb3.png)
+<img src="https://cloud.githubusercontent.com/assets/16362957/20453729/0b5f885e-ae54-11e6-89b8-5e3063d50369.jpg" width="250" height="250"> | <img src="https://cloud.githubusercontent.com/assets/16362957/20453731/0daa968a-ae54-11e6-823e-cf00edd891dc.png" width="250" height="250">
+<img src="https://cloud.githubusercontent.com/assets/16362957/20453732/11700746-ae54-11e6-9962-eb990e817c59.jpg" width="250" height="250"> | <img src="https://cloud.githubusercontent.com/assets/16362957/20453733/140639e4-ae54-11e6-9f33-432327685bb3.png" width="250" height="250">
 
 # Dependencies
 
