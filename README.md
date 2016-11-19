@@ -22,3 +22,30 @@ In this project a base video and style reference image is taken. The base video 
 * CUDA (GPU) (http://docs.nvidia.com/cuda/cuda-getting-started-guide-for-mac-os-x/)
 * CUDNN (GPU) (https://developer.nvidia.com/cudnn)
 * VGG16 file https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view?usp=sharing
+
+# Basic Usage
+
+There are 3 parts to identify when we run the script
+
+1. Your base video (to artify)
+2. Your reference image (the art to learn from)
+3. Your generated video
+Run the following comand to generate an image in your chosen style
+
+python aistist.py --base_video_path /path/to/your/video --style_reference_image_path /path/to/your/painting --result_prefix /path/to/generated/file/you/create
+
+Other optional commands are
+* --image_size: Size of your output frame
+* --content_weight: How much to weigh the content
+* --style_weight: How much to weigh the style
+* --style_scale: How much to scale the style
+* --total_variation_weight: Uniformity of the generated frame
+* --num_iter: Nmber of iterations
+* --rescale_image: to rescale or not to rescale
+* --rescale_method: rescale algorithm
+* --maintain_aspect_ratio: to maintain aspect ratio or not
+* --content_layer: which layer to focus on for content generation
+
+# Credits
+
+
