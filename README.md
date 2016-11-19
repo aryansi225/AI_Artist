@@ -48,4 +48,5 @@ Other optional commands are
 
 # Credits
 
+Credits to [Somsubra Majumdar](https://github.com/titu1994/Neural-Style-Transfer), [Siraj Raval](https://github.com/llSourcell/AI_Artist) for vast majority of code. 
 
