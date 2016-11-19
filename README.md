@@ -1,6 +1,6 @@
 # AI_Artist
 
-In this project a base video and style reference image is taken. The base video is decomposed into frames by using opencv and each frame is passed through a trained deep convolutional neural network over a dataset to repaint base image based on the style of another style reference image. Then the repainted image spitted out of the neural network is again joined to form the output video using opencv
+In this project a base video and style reference image is taken. The base video is decomposed into frames by using opencv and each frame is passed through a trained deep convolutional neural network over a dataset to repaint base image based on the style of another style reference image. Then the repainted image spitted out of the neural network is again joined to form the output video using opencv. This is the implementation of Neural Style Transfer from the paper [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) in Keras 1.0.2.
 
 # Examples
 
