@@ -46,7 +46,7 @@ Other optional commands are
 * --maintain_aspect_ratio: to maintain aspect ratio or not
 * --content_layer: which layer to focus on for content generation
 
-# Credits
+# References
 
 Credits to [Somsubra Majumdar](https://github.com/titu1994/Neural-Style-Transfer), [Siraj Raval](https://github.com/llSourcell/AI_Artist) for vast majority of code. 
 
