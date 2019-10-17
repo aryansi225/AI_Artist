@@ -50,3 +50,8 @@ Other optional commands are
 
 Credits to [Somsubra Majumdar](https://github.com/titu1994/Neural-Style-Transfer), [Siraj Raval](https://github.com/llSourcell/AI_Artist) for vast majority of code. 
 
+# My Original Contribution & Learnings
+
+Contribution => Used AI_Artist and Neural-Style-Transfer code which was implemented to do neural style transfer of images to work for videos. Used opencv to convert videos to frames which was used by the inherited scipt to do style transfer and then the frame image generated was stiched back to a video using opencv.
+
+Major Learnings => Learnt how transfer learning using VGG16 was used in neutral style transfer. Learnt how opencv could be used in video manipulation.
